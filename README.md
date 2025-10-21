@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+ 🔭 I’m currently working on learning to code, I've been interested in learning for many years and have now started dedicating my free time to learning to code. 
 <!--
 **topt8r/Topt8r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
